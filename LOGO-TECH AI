@@ -1,0 +1,7 @@
+cd logo-tech-production
+git init
+git add .
+git commit -m "LOGO-TECH AI production"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/logo-tech-ai.git
+git push -u origin main
